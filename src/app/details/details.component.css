@@ -1,0 +1,8 @@
+.example-card {
+    max-width:420px;
+    /* background-color: #D9499A; */
+  }
+  .mat-card {
+    /* font-family: Roboto,"Helvetica Neue",sans-serif; */
+    font-family: monospace;
+}
